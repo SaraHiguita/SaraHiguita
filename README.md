@@ -1,3 +1,7 @@
+👨‍💻 Bienvenido a mi perfil GitHub
+
+Hola, soy **Estudiante de Análisis y Desarrollo de Software** apasionado por la programación, el desarrollo web y la creación de soluciones tecnológicas efectivas. Actualmente desarrollo proyectos aplicando metodologías de análisis, diseño y desarrollo de software.
+
 Sobre mí
 
 - 🎓 Estudiante de **Análisis y Desarrollo de Software**
