@@ -21,7 +21,7 @@ Sobre mí
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
- Lenguajes y Frameworks:
+   ### Lenguajes y Frameworks:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
@@ -32,7 +32,7 @@ Sobre mí
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
 </p>
 
- Bases de datos:
+  ###  Bases de datos:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
 </p>
@@ -43,7 +43,7 @@ Sobre mí
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </p>
 
- 📌 Áreas de interés
+ 📌  ### Áreas de interés
 
 - Desarrollo web frontend y backend
 - Ingeniería de requerimientos
@@ -51,7 +51,7 @@ Sobre mí
 - Automatización de tareas
 - Inteligencia Artificial y desarrollo de prompts
 
-📫 Contacto
+📫  ### Contacto
 
 Si deseas colaborar o ponerte en contacto, puedes escribirme por aquí o vía correo electrónico (sarahiguita21@gmail.com).
 
