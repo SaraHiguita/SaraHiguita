@@ -43,7 +43,7 @@ Sobre mí
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
 </p>
 
- 📌  ### Áreas de interés
+ 📌   Áreas de interés
 
 - Desarrollo web frontend y backend
 - Ingeniería de requerimientos
@@ -51,7 +51,7 @@ Sobre mí
 - Automatización de tareas
 - Inteligencia Artificial y desarrollo de prompts
 
-📫  ### Contacto
+📫   Contacto
 
 Si deseas colaborar o ponerte en contacto, puedes escribirme por aquí o vía correo electrónico (sarahiguita21@gmail.com).
 
